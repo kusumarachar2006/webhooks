@@ -20,5 +20,6 @@ if __name__=="__main__":
   print("addition:",add(20,20))
   print("subtraction:"subtract(20,10))
   print("multiplication:",multiply(5,4))
+  print("division:",multiply(5,4))
   print("\nexecuting automated tests...\n")
   unittest.main(argv=['first-arg-is-ignored'],exit=false)
